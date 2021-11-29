@@ -1,0 +1,63 @@
+body{
+    background:rgba(230,204,169);
+   }
+   
+   h1{
+     text-align:center;
+     font-family:Arial;
+   }
+   p{
+     text-align:center;
+   }
+   
+   label{
+     color:white;
+     font-family:Arial;
+   }
+   form{
+     background-color:rgba(63,51,81,1);
+     border-radius:5%;
+     padding:50px 50px 75px 50px;
+     margin:0 250px 0 250px;
+   }
+   
+   
+   #name-label{
+     display:flex;
+     flex-direction:column;
+     
+   }
+   
+   #email-label{
+     display:flex;
+     flex-direction:column;
+   }
+   
+   #number-label{
+     display:flex;
+     flex-direction:column;
+   }
+   
+   #dropdown-box{
+     display:flex;
+     flex-direction:column;
+   }
+   
+   #comments{
+     display:flex;
+     flex-direction:column;
+   }
+   
+   #submit{
+     
+     width:75%;
+     height:45px;
+     background-color:#00ff00;
+     
+   }
+   
+   #fav-feat{
+     display:flex;
+     flex-direction:column;
+   }
+   
